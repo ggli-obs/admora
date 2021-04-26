@@ -1,3 +1,4 @@
+#tbs cmd
 export SETCONTAINERSTRING="-- no pdb  "
 if  [  -z "$TWO_TASK" ] ; then
 export SETCONTAINERSTRING="-- no pdb "
